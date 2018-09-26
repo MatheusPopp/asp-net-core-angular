@@ -20,3 +20,13 @@ C:\Users\mathe\Documents\Projeto C#\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.0\My
 C:\Users\mathe\Documents\Projeto C#\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.AssemblyInfo.cs
 C:\Users\mathe\Documents\Projeto C#\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.dll
 C:\Users\mathe\Documents\Projeto C#\MyWebApp\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.pdb
+C:\asp-net-core-angular\asp-net-core-angular\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.dll
+C:\asp-net-core-angular\asp-net-core-angular\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.pdb
+C:\asp-net-core-angular\asp-net-core-angular\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.deps.json
+C:\asp-net-core-angular\asp-net-core-angular\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.runtimeconfig.json
+C:\asp-net-core-angular\asp-net-core-angular\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.runtimeconfig.dev.json
+C:\asp-net-core-angular\asp-net-core-angular\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.dll
+C:\asp-net-core-angular\asp-net-core-angular\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.pdb
+C:\asp-net-core-angular\asp-net-core-angular\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.csproj.CoreCompileInputs.cache
+C:\asp-net-core-angular\asp-net-core-angular\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.AssemblyInfoInputs.cache
+C:\asp-net-core-angular\asp-net-core-angular\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.AssemblyInfo.cs

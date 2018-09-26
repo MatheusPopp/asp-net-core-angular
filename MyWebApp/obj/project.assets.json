@@ -12594,11 +12594,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\Desktop\\Projeto C#\\MyWebApp\\MyWebApp\\MyWebApp.csproj",
+      "projectUniqueName": "C:\\asp-net-core-angular\\asp-net-core-angular\\MyWebApp\\MyWebApp.csproj",
       "projectName": "MyWebApp",
-      "projectPath": "C:\\Users\\mathe\\Desktop\\Projeto C#\\MyWebApp\\MyWebApp\\MyWebApp.csproj",
+      "projectPath": "C:\\asp-net-core-angular\\asp-net-core-angular\\MyWebApp\\MyWebApp.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\Desktop\\Projeto C#\\MyWebApp\\MyWebApp\\obj\\",
+      "outputPath": "C:\\asp-net-core-angular\\asp-net-core-angular\\MyWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
