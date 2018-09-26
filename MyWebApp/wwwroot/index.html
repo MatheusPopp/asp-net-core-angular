@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Meu App</title>
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/Style.css" rel="stylesheet" />
+
+    <script src="JQuery/jquery-3.3.1.min.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="index.js"></script>
+
+
+
+</head>
+<body>
+
+    <nav class="navbar navbar-default trans-effect">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/index.html"> <img src="/img/logo.png" alt=" " class="img-responsive"/></a>
+            </div>
+            <div id="navbar" class="collapse navbar-collapse">
+                <ul class="nav scroll-to navbar-nav navbar-right">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div><!--/.nav-collapse -->
+        </div>
+    </nav>
+    <div>
+        <h1>Olá, esse é meu primeiro App WEB</h1>
+        <p>Este é meu <strong>STRONG</strong>primeiro parágrafo</p>
+        <a href='http://youtube.com'>Clique aqui </a>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+
+
+
+            <div class="col-xs-12">
+                <div id="login">Login</div>
+                <form id="popup-form" class="form-horizontal">
+                    <div class="form-group">
+                        <label class="control-label col-xs-1">Usuário</label>
+                        <div class="col-xs-3" >
+                            <input class="form-control" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label col-xs-1">Senha</label>
+                        <div class="col-xs-3">
+                            <input  class="form-control" type="password" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-xs-offset-1 col-xs-10">
+                            <div class="checkbox">
+                                <label>
+                                    <input type="checkbox" />
+                                    Manter conectado?
+                                </label>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-xs-offset-1 col-xs-2">
+                            <input type="submit" value="Entrar" class="btn btn-primary" />
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+            <div class="col-xs-3">
+                <div>
+                    <img src="img/winmed imagem.jpg" />
+                    <h3>Winmed</h3>
+                    <ul class="itens">
+                        <li> Teste para emprego</li>
+                        <li> Cadastro de empresas</li>
+                    </ul>
+                    <br />
+                </div>
+            </div>
+
+            <div class="col-xs-4">
+                <div id="div-form">
+                    <form>
+                        <label>Nome da Empresa:</label>
+                        <br />
+                        <input type="text" name="nomeempresa" />
+                        <br />
+                        <label>CPF Usuario:</label>
+                        <br />
+                        <input type="text" name="cpf" onkeydown="javascript: fMasc( this, mCPF );" />
+                        <br />
+                        <label>Mensagem:</label>
+                        <br />
+                        <textarea rows="4"></textarea>
+                        <br />
+                        <button id="meuButton">Cadastrar</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+</body>
+</html>

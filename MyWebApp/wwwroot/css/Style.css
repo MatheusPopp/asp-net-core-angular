@@ -1,0 +1,51 @@
+﻿/*
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+input, textarea, label {
+    font-size: 18px;
+    width: 200px;
+}
+
+div#div-form{
+    background-color:#808080
+}
+
+#div-form button {
+    background-color: red;
+}
+
+.itens{
+    font-size: small;
+    width: 200px;
+}
+ul.itens li{
+    list-style-type:none;
+}
+
+#login {
+    cursor:pointer;
+}
+
+.popup-form{
+    padding:5px;
+    border:2px #000000 inset;
+    display: inline-block;
+
+}
+
+.popup-form input{
+    width:200px;
+}
+
+.popup-form label {
+        width: 150px;
+        display: inline-block;
+}
+
+.popup-form input[type = checkbox], .popup-form input[type = submit] {
+        width:auto;
+}
+*/

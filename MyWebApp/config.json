@@ -1,0 +1,6 @@
+//Arquivo para a configuracao do DB, string de conexao mySql
+{
+  "ConnectionStrings": {
+    "MyWebAppDB": "server=localhost;userid=root;password=153128;database=MyWebAppDB"
+  }
+}
